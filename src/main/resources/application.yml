@@ -9,7 +9,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: Nag15188
-    url: jdbc:mysql://mysql-db.ct91asccasgf.eu-west-2.rds.amazonaws.com:3306/student
+    url: jdbc:mysql://mynewdb.ct91asccasgf.eu-west-2.rds.amazonaws.com:3306/student
     username: admin
   jpa:
     generate-ddl: true
